@@ -142,4 +142,5 @@ Pull requests are welcome. You'll probably find lots of improvements to be made.
 Open issues for feedback, requesting features, reporting bugs or discussing ideas.
 
 Special thanks to [Thomas](https://github.com/trgwii) and [Muthu](https://github.com/MKRhere). Logo design by [Muthu](https://github.com/MKRhere).
+reload **
 
